@@ -10,6 +10,6 @@ public class HelloSpringBoot {
 
     @GetMapping
     public String hello (){
-        return "Welcome to Spring boot Docker Hello World!";
+        return "Welcome to Spring boot Docker Hello World! Auto Docker Build Test";
     }
 }
